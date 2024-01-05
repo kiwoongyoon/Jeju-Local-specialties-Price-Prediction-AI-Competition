@@ -1,4 +1,4 @@
-#[DACON] Jeju-Local-specialties-Price-Prediction-AI-Competition
+# [DACON] Jeju-Local-specialties-Price-Prediction-AI-Competition
 제주도 특산물의 가격을 예측하는 AI 모델 개발 경진대회 
 팀 : 윤기웅, 조서영 
 
@@ -8,3 +8,14 @@
 
 결과: 193등 ( 상위 18%) 
 
+===========================================================================
+✏️
+**대회 후기** 
+ - ```AUTOGLUON TIME SERIES PREDICTOR의 뛰어난 성능을 경험할 수 있었다 ```
+ - MLP모델을 이용한 장기적인 시계열 데이터 예측은 성능이 감소함을 깨달았다
+ - Data Interpolation에 대해 더 많은 공부가 필요함을 느꼈다 
+   
+===========================================================================
+
+**Feature Engineering** 
+ - 
